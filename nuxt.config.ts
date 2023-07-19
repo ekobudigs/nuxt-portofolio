@@ -7,5 +7,9 @@ export default defineNuxtConfig({
   ],
   content: {
     // https://content.nuxtjs.org/api/configuration
+    highlight: {
+      theme: 'nord',
+      preload: ['ts', 'js', 'css', 'java', 'json', 'bash', 'vue']
+    }
   }
 })
