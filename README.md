@@ -13,6 +13,8 @@ npm install @heroicons/vue
  npm install -D nuxt-icon
 npm install -D @nuxt/content
 
+npm install -D @tailwindcss/typography
+
 
 # Nuxt 3 Minimal Starter
 
