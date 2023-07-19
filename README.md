@@ -1,3 +1,15 @@
+cara install tailwind di nuxt 3
+
+npm install -D @nuxtjs/tailwindcss
+ 
+ masukan kode di nuxt.config.js
+  modules: [
+    '@nuxtjs/tailwindcss'
+  ]
+
+  npm install @headlessui/vue
+npm install @heroicons/vue
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
