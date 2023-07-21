@@ -1,14 +1,14 @@
 ---
-title: Getting Started with Nuxt 3
+title: Getting Started with Vue 3
 description: This is a quick introduction on how to get started with Nuxt 3.
 date: 2023-05-24
-cover: clement-helardot-95YRwf6CNw8-unsplash.jpg
+cover: codings.jpg
 tags:
   - nuxt
   - vue
 ---
 
-# Getting Started with Nuxt 3
+# Getting Started with Vue 3
 
 This is a quick introduction on how to get started with Nuxt 3. To get started you need to have Node.js installed on your machine. You can download it from [here](https://nodejs.org/en/download/). Once you have Node.js installed, you can install Nuxt 3 using the following command:
 
