@@ -15,6 +15,10 @@ npm install -D @nuxt/content
 
 npm install -D @tailwindcss/typography
 
+install grapql
+npm i -D @nuxtjs/apollo@next
+
+
 
 # Nuxt 3 Minimal Starter
 
